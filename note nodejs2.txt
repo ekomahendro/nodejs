@@ -1,0 +1,7 @@
+npm init -y
+   result package.json
+npmjs.com
+   express - copy  npm i express
+   result package-lock.json
+
+port 3000 biasanya front end
